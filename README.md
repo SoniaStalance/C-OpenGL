@@ -1,1 +1,1 @@
-# C-OpenGL
+# Bresenham's Circle Drawing Algorithm
