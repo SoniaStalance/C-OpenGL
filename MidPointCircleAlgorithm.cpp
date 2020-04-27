@@ -14,7 +14,6 @@ void midPointCircleAlgo();
 //drawing circle using MidPoint Circle Algorithm
 void plot(int x, int y)
 {
-	glPushMatrix();
 	//plot point
 	glColor3f(1, 1, 0);
 	glPointSize(2.0);
@@ -29,7 +28,6 @@ void plot(int x, int y)
 	glVertex2i(pntX1, pntY1);
 	glVertex2i(x + pntX1, y + pntY1);
 	glEnd();
-	glPopMatrix();
 }
 
 void midPointCircleAlgo()
