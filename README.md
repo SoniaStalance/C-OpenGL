@@ -2,7 +2,7 @@
 ## Executing in Visual Studio 2019
 
 ### Step 1:
-* Extract the contents of the zip file [Glew and Glut](master/Glew%20and%20Glut.zip) to lets say **Desktop**
+* Extract the contents of the zip file [Glew and Glut](https://github.com/SoniaStalance/Mid-Point-Circle-Algorithm/blob/master/Glew%20and%20Glut.zip) to lets say **Desktop**
 * Create new Visual C++ Empty Project lets say **Project1**
 * Create new C++ file within your project
 * Paste code in the created C++ file
