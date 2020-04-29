@@ -1,5 +1,9 @@
 # Read Me
 ## Executing in Visual Studio 2019
+* Install Visual Studio Community 2019
+* Select Workload **Desktop Development with C++**
+
+After installation follow the steps given below.
 
 ### Step 1:
 * Extract the contents of the zip file [Glew and Glut](https://github.com/SoniaStalance/Mid-Point-Circle-Algorithm/blob/master/Glew%20and%20Glut.zip) to lets say **Desktop**
